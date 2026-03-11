@@ -5,7 +5,7 @@
 
 <p>
 Welcome to my GitHub! </br>
-I'm <b>Bayoona</b>, a passionate <b>Web Developer</b> focused on building modern web applications using the <b>MERN Stack</b>.  
+I'm <b>Bayan akkam</b>, a passionate <b>Web Developer</b> focused on building modern web applications using the <b>MERN Stack</b>.  
 I enjoy turning ideas into real digital products and constantly improving my skills in software development and technology.
 </p>
 
