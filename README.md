@@ -13,8 +13,6 @@ A passionate Web Developer building modern web applications
 </p>
 
 <p>
-Welcome to my GitHub! </br>
-I'm <b>Bayan akkam</b>, a passionate <b>Web Developer</b> focused on building modern web applications using the <b>MERN Stack</b>.  
 I enjoy turning ideas into real digital products and constantly improving my skills in software development and technology.
 </p>
 
@@ -57,21 +55,21 @@ I enjoy turning ideas into real digital products and constantly improving my ski
 <h3>📊 GitHub Stats</h3>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bayanakaam&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayanakaam&layout=compact&theme=tokyonight"/>
 </p>
 
 <h3>🌐 Let's Connect</h3>
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/bayanakaam">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/bayan-akkam-a705ab1ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
